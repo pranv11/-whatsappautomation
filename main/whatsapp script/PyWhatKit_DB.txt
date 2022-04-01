@@ -1,0 +1,110 @@
+Date: 8/1/2022
+Time: 16:5
+Phone Number: +1 (669) 888-6214
+Message: hello
+--------------------
+Date: 8/1/2022
+Time: 16:7
+Phone Number: +1 (669) 888-6214
+Message: hello launde
+--------------------
+Date: 8/1/2022
+Time: 16:11
+Phone Number: +1 (669) 888-6214
+Message: hello
+--------------------
+Date: 8/1/2022
+Time: 16:13
+Phone Number: +1 (669) 888-6214
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 8/1/2022
+Time: 16:15
+Phone Number: +1 (669) 888-6214
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 8/1/2022
+Time: 16:20
+Phone Number: +1 (669) 888-6214
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 8/1/2022
+Time: 16:21
+Phone Number: +1 (669) 888-6214
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 8/1/2022
+Time: 16:24
+Phone Number: +1 (408) 368-8187
+Message: hello ji
+--------------------
+Date: 8/1/2022
+Time: 16:26
+Phone Number: +1 (443) 845-5895
+Message: hello ji
+--------------------
+Date: 8/1/2022
+Time: 16:29
+Phone Number: +1 (443) 845-5895
+Message: hello ji
+--------------------
+Date: 8/1/2022
+Time: 16:31
+Phone Number: +1 (443) 845-5895
+Message: hello
+--------------------
+Date: 8/1/2022
+Time: 20:15
+Phone Number: +1 (443) 845-5895
+Message: hello
+--------------------
+Date: 8/1/2022
+Time: 20:17
+Phone Number: +1 (443) 845-5895
+Message: hello
+--------------------
+Date: 8/1/2022
+Time: 20:28
+Phone Number:  +14083688187
+Message: hello didi
+--------------------
+Date: 8/1/2022
+Time: 20:33
+Phone Number: +14083688187
+Message: Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.
+--------------------
+Date: 8/1/2022
+Time: 20:36
+Phone Number: +14438455895
+Message: this is an automated message
+--------------------
+Date: 8/1/2022
+Time: 20:40
+Phone Number:  +919879912357
+Message: hello papa
+--------------------
+Date: 8/1/2022
+Time: 21:15
+Phone Number: +14083688187
+Message: hello jiju
+--------------------
+Date: 8/1/2022
+Time: 21:33
+Phone Number: +919422938299
+Message: hello aunty
+--------------------
+Date: 9/1/2022
+Time: 13:37
+Phone Number: ['+14083688187']
+Message: hello
+--------------------
+Date: 9/1/2022
+Time: 13:39
+Phone Number: ['+15102400232']
+Message: hello
+--------------------
+Date: 9/1/2022
+Time: 13:40
+Phone Number: ['+14438455895']
+Message: hello
+--------------------
